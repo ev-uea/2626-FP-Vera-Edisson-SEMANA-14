@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Doble Carne",
+        "categoria": "Comida Rápida",
+        "precio": 6.5,
+        "stock": 15
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza Familiar Pepperoni",
+        "categoria": "Comida Rápida",
+        "precio": 12.0,
+        "stock": 8
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Jugo Natural de Naranja",
+        "categoria": "Bebidas",
+        "precio": 2.5,
+        "stock": 25
+    },
+    {
+        "codigo": "P004",
+        "nombre": "tarta de queso y frutos rojos",
+        "categoria": "postres",
+        "precio": 4.0,
+        "stock": 10
+    }
+]
